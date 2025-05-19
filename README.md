@@ -1,2 +1,2 @@
 # Resume
-This is my fucking resume
+This is my resume
